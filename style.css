@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: black;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
